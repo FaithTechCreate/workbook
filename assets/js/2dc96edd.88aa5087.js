@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfaithtech_workbook=self.webpackChunkfaithtech_workbook||[]).push([[3330],{7147:o=>{o.exports=JSON.parse('{"metadata":{"permalink":"/workbook/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
