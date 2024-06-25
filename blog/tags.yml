@@ -1,0 +1,16 @@
+faithtech:
+  label: FaithTech
+  permalink: /faithtech
+  description: FaithTech
+community:
+  label: Community
+  permalink: /community
+  description: FaithTech Community
+create:
+  label: Create
+  permalink: /create
+  description: FaithTech Create
+playbook:
+  label: Playbook
+  permalink: /playbook
+  description: FaithTech Playbook
