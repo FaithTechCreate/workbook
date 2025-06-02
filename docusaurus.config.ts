@@ -93,6 +93,10 @@ const config: Config = {
         { to: "/support", label: "Support", position: "left" },
         { to: "/blog", label: "Stories", position: "left" },
         {
+        type: 'localeDropdown',
+        position: 'right',
+      },
+        {
           href: "https://github.com/FaithTechCreate/workbook",
           label: "GitHub",
           position: "right",
