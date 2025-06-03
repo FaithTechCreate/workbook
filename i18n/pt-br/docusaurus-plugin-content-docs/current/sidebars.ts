@@ -1,36 +1,53 @@
-/** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
-const sidebars = {
+import type {SidebarsConfig} from '@docusaurus/plugin-content-docs';
+
+const sidebars: SidebarsConfig = {
   workbookSidebar: [
     {
       type: 'category',
       label: 'Introdução',
-      items: [
-        'intro/overview',
-        'intro/getting-started',
-      ],
+      items: ['intro'],
     },
     {
       type: 'category',
       label: 'Descobrir',
       items: [
-        'discover/mission',
-        'discover/tools',
+        'discover/index',
+        'discover/exercises',
       ],
     },
     {
       type: 'category',
       label: 'Discernir',
       items: [
-        'discern/plan',
-        'discern/decisions',
+        'discern/index',
+        'discern/exercises',
       ],
     },
     {
       type: 'category',
       label: 'Desenvolver',
       items: [
-        'develop/progress',
-        'develop/resources',
+        'develop/index',
+        'develop/exercises',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Demonstrar',
+      items: [
+        'demonstrate/index',
+        'demonstrate/exercises',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Preparar',
+      items: [
+        'prepare/index',
+        'prepare/teams',
+        'prepare/projects',
+        'prepare/resources',
+        'prepare/timeline',
       ],
     },
   ],
