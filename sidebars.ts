@@ -5,33 +5,49 @@ const sidebars: SidebarsConfig = {
     {
       type: 'category',
       label: 'Introduction',
-      items: [
-        'intro/overview',
-        'intro/getting-started',
-      ],
+      items: ['intro'],
     },
     {
       type: 'category',
       label: 'Discover',
       items: [
-        'discover/mission',
-        'discover/tools',
+        'discover/index',
+        'discover/exercises',
       ],
     },
     {
       type: 'category',
       label: 'Discern',
       items: [
-        'discern/plan',
-        'discern/decisions',
+        'discern/index',
+        'discern/exercises',
       ],
     },
     {
       type: 'category',
       label: 'Develop',
       items: [
-        'develop/progress',
-        'develop/resources',
+        'develop/index',
+        'develop/exercises',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Demonstrate',
+      items: [
+        'demonstrate/index',
+        'demonstrate/exercises',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Prepare',
+      items: [
+        'prepare/index',
+        'prepare/teams',
+        'prepare/projects',
+        'prepare/resources',
+        'prepare/timeline',
       ],
     },
   ],
