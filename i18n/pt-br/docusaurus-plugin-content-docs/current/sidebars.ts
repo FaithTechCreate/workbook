@@ -4,12 +4,12 @@ const sidebars: SidebarsConfig = {
   workbookSidebar: [
     {
       type: 'category',
-      label: 'Introduction',
+      label: 'Introdução',
       items: ['intro'],
     },
     {
       type: 'category',
-      label: 'Discover',
+      label: 'Descobrir',
       items: [
         'discover/index',
         'discover/exercises',
@@ -17,7 +17,7 @@ const sidebars: SidebarsConfig = {
     },
     {
       type: 'category',
-      label: 'Discern',
+      label: 'Discernir',
       items: [
         'discern/index',
         'discern/exercises',
@@ -25,7 +25,7 @@ const sidebars: SidebarsConfig = {
     },
     {
       type: 'category',
-      label: 'Develop',
+      label: 'Desenvolver',
       items: [
         'develop/index',
         'develop/exercises',
@@ -33,7 +33,7 @@ const sidebars: SidebarsConfig = {
     },
     {
       type: 'category',
-      label: 'Demonstrate',
+      label: 'Demonstrar',
       items: [
         'demonstrate/index',
         'demonstrate/exercises',
@@ -41,7 +41,7 @@ const sidebars: SidebarsConfig = {
     },
     {
       type: 'category',
-      label: 'Prepare',
+      label: 'Preparar',
       items: [
         'prepare/index',
         'prepare/teams',
